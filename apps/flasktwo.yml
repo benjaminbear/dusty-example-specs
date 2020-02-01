@@ -8,7 +8,7 @@ depends:
     - persistent_mongo
 
 host_forwarding:
-  - host_name: local.flasktwo.com
+  - host_name: flasktwo.local.com
     host_port: 80
     container_port: 5000
 
